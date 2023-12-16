@@ -1,0 +1,8 @@
+.buttonAdd{
+  background-color: green;
+  color: white;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  border-width: 2px;
+}

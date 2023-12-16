@@ -1,0 +1,25 @@
+button
+{
+  background-color: whitesmoke;
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: oblique;
+  height: 40px;
+  width: 100px;
+  border-color: whitesmoke;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 1px 1px 10px rgba(0,0,0,.6);
+  transition: box-shadow 0.5s;
+}
+button:hover
+{
+  box-shadow: 5px 5px 10px rgba(0,0,0,.6);
+}
+button:active
+{
+  border-color: rgb(226, 223, 14);
+}

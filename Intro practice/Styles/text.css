@@ -1,0 +1,31 @@
+
+      p{
+        font-style: italic;
+      }
+      .par {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        font-weight: bold;
+        font-style: italic;
+        text-align: center;
+        width: 400px;
+        line-height: 40px;
+        margin-bottom: 0;
+      }
+      .par2 {
+        font-size: 14px;
+        font-family: cursive;
+        color: blue;
+        margin-top: 0;
+      }
+      .par4 {
+        text-decoration: underline;
+      }
+      .example {
+        font-size: larger;
+      }
+      .example:hover {
+        cursor: pointer;
+        color: green;
+        
+      }
